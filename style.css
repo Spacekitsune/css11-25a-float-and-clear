@@ -1,0 +1,41 @@
+body {
+    margin: auto;
+    width: 50%;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
+.photo1 {
+    float: left;
+    margin-right:30px;
+    margin-bottom: 20px;
+    width: 200px;
+} 
+
+.photo2 {
+    float: right;
+    margin-left:30px;
+    margin-bottom: 20px;
+    width: 200px;
+} 
+
+.p3 {
+    float: left;
+    width: 49%;
+}
+
+.p4 {
+    float: right;
+    width: 49%;
+}
+
+.p5 {
+    padding-top: 30px;
+    clear: both;
+}
